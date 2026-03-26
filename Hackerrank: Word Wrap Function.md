@@ -43,15 +43,7 @@ print(wrap(text, width))
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/2b4d8e9d-9a10-442f-a211-8711293d4f67)
 
-## Result
 
-Program is verified successfully.
-
-
-## 🧪 Program
-Add Code Here
-
-## Sample Output
 
 ## Result
 
